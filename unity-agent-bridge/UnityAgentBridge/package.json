@@ -1,0 +1,22 @@
+{
+  "name": "com.dsh.unity-agent-bridge",
+  "displayName": "Unity Agent Bridge",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "A local HTTP bridge that lets an AI agent or external tool drive the Unity Editor: scenes, GameObjects, components, play mode, console logs, screenshots, assets, menus and dynamic C# execution.",
+  "keywords": [
+    "editor",
+    "automation",
+    "ai",
+    "agent",
+    "bridge",
+    "mcp"
+  ],
+  "category": "Editor",
+  "author": {
+    "name": "DSH"
+  },
+  "documentationUrl": "https://example.invalid/unity-agent-bridge",
+  "changelogUrl": "CHANGELOG.md",
+  "licensesUrl": "LICENSE.md"
+}
